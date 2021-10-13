@@ -36,12 +36,16 @@ Stretch goals:
 
 ### **ERD**
 
-```mermaid
+![ERD](https://github.com/solaris449062/face-photo-organizer/blob/main/readme-img/ERD.png)
+
+<!-- ```mermaid
 erDiagram
     User ||--o{ Photo : ""
     User ||--o{ People : ""
     Photo }o--|{ People : ""
-```
+``` -->
+
+
 
 ### Wireframes
 
