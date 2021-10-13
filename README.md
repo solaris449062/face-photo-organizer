@@ -45,4 +45,10 @@ erDiagram
 
 ### Wireframes
 
+![Main](https://github.com/solaris449062/face-photo-organizer/blob/main/readme-img/main.png)
+
+![Find](https://github.com/solaris449062/face-photo-organizer/blob/main/readme-img/find.png)
+
+![Search](https://github.com/solaris449062/face-photo-organizer/blob/main/readme-img/search.png)
+
 
